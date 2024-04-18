@@ -1,0 +1,27 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white !important
+}
+h1{
+    font-size: 25pt;
+    text-align: center;
+    font-style: oblique;
+    color: blanchedalmond;
+}
+a{
+    color: burlywood;
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15pt;
+    font-weight: 200;
+}
+h4{
+    font-size: 25px;
+    text-align: center;
+    font-style: italic;
+}
+div{
+    margin: 0 auto;
+    width: 100%;
+}
